@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1669061820 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\arbol.cpp
+	"arbol.h"
+
+1669061808 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\arbol.h
+	<stdio.h>
+	"boolean.h"
+	"expediente.h"
+
+1661906916 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\boolean.h
+	<stdio.h>
+
+1668213352 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\archivos.cpp
+	"archivos.h"
+
+1668213321 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\archivos.h
+	"stringdinamico.h"
+
+1668209418 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\stringdinamico.h
+	<stdio.h>
+	"boolean.h"
+
+1661907018 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\boolean.cpp
+	"Boolean.h"
+
+1669065164 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\expediente.cpp
+	"expediente.h"
+
+1669065359 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\expediente.h
+	"Fecha.h"
+	"escribano.h"
+
+1661904152 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\fecha.cpp
+	"Fecha.h"
+
+1661904058 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1667600819 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\listas.cpp
+	"listas.h"
+
+1669065197 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\listas.h
+	"boolean.h"
+	"escribano.h"
+
+1669062799 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\main.cpp
+	<stdio.h>
+	"arbol.h"
+
+1668209501 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\stringdinamico.cpp
+	"stringdinamico.h"
+
+1669065177 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\escribano.cpp
+	"escribano.h"
+
+1669065164 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\escribano.h
+	"stringdinamico.h"
+
+1668730911 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\estado.cpp
+	"estado.h"
+
+1668731099 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\estado.h
+
+1668731335 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\revicion.cpp
+	"revicion.h"
+
+1668731538 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2\revicion.h
+	"stringdinamico.h"
+	"estado.h"
+	"Fecha.h"
+
+1669075733 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\arbol.cpp
+	"arbol.h"
+
+1669075532 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\arbol.h
+	<stdio.h>
+	"boolean.h"
+	"expediente.h"
+
+1661892516 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\boolean.h
+	<stdio.h>
+
+1669076572 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\expediente.h
+	"Fecha.h"
+	"escribano.h"
+
+1661889658 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1669076572 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\escribano.h
+	"stringdinamico.h"
+
+1668191418 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\stringdinamico.h
+	<stdio.h>
+	"boolean.h"
+
+1668195352 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\archivos.cpp
+	"archivos.h"
+
+1668195320 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\archivos.h
+	"stringdinamico.h"
+
+1661892618 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\boolean.cpp
+	"Boolean.h"
+
+1669076076 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\escribano.cpp
+	"escribano.h"
+
+1668712910 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\estado.cpp
+	"estado.h"
+
+1668713098 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\estado.h
+
+1661889752 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\fecha.cpp
+	"Fecha.h"
+
+1669044798 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\main.cpp
+	<stdio.h>
+	"arbol.h"
+
+1668713334 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\revicion.cpp
+	"revicion.h"
+
+1669073501 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\revicion.h
+	"stringdinamico.h"
+	"estado.h"
+	"Fecha.h"
+
+1668191500 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\stringdinamico.cpp
+	"stringdinamico.h"
+
+1669075651 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\programacion\programacion 2\obligatorios\obligatorio 2\obl2-20221121t231634z-001\obl2\expediente.cpp
+	"expediente.h"
+
+1669147357 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\arbol.cpp
+	"arbol.h"
+
+1669146300 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\arbol.h
+	<stdio.h>
+	"boolean.h"
+	"expediente.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\boolean.h
+	<stdio.h>
+
+1669135952 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\expediente.h
+	"Fecha.h"
+	"escribano.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\fecha.h
+	<stdio.h>
+	"Boolean.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\escribano.h
+	"stringdinamico.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\stringdinamico.h
+	<stdio.h>
+	"boolean.h"
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\archivos.cpp
+	"archivos.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\archivos.h
+	"stringdinamico.h"
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\boolean.cpp
+	"Boolean.h"
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\escribano.cpp
+	"escribano.h"
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\estado.cpp
+	<stdio.h>
+	"estado.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\estado.h
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\expediente.cpp
+	"expediente.h"
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\fecha.cpp
+	"Fecha.h"
+
+1669147306 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\main.cpp
+	<stdio.h>
+	"arbol.h"
+
+1669129693 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\stringdinamico.cpp
+	"stringdinamico.h"
+
+1669133887 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\listas.cpp
+	"listas.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\listas.h
+	"boolean.h"
+	"revicion.h"
+
+1669129693 c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\revicion.h
+	"stringdinamico.h"
+	"estado.h"
+	"Fecha.h"
+
+1669133895 source:c:\users\administrador\desktop\ude\programacion 2\practico\obl2\obl2-20221122t150500z-001\obl2\revicion.cpp
+	"revicion.h"
+
